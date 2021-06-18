@@ -16,3 +16,5 @@ In a number of cases, a Web app will make regular and sometimes frequent request
 ## Cloud gaming
 
 ## Real-time conferencing
+
+## PWA Applications
